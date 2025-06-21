@@ -1,0 +1,6 @@
+@HeirHub.Server_HostAddress = http://localhost:5046
+
+GET {{HeirHub.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
